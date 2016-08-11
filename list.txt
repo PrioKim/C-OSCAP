@@ -1,4 +1,0 @@
-<li class=navbar-brand><a href="input.php?id=1"><h3>C-OSCAP 실행 및 저장</h3></a></li><br>
-<li class=navbar-brand><a href="search.php?id=2"><h3>C-OSCAP 조회 및 삭제</h3></a></li><br>
-<li class=navbar-brand><a href="price.php?id=3"><h3>스토리지 요금제</h3></a></li><br>
-<li class=navbar-brand><a href="write.php?id=3"><h3>게시판에 문의하기</h3></a></li>
