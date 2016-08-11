@@ -1,0 +1,16 @@
+<li class="active btn btn-link">
+    <a href="index.php">Home</a>
+</li>
+<li class="active btn btn-link">
+    <a href="about.php">About</a>
+</li>
+<li class="active btn btn-link">
+    <a href="mailto:koain@naver.com">Contact</a>
+</li>
+<li class="active btn btn-link">
+    <a href="login.php">Login</a>
+</li>
+<li class="active btn btn-link">
+    <a href="register.php">Sign Up</a>
+</li>
+</ul>
